@@ -3,7 +3,7 @@
   "description": "Collect data while browsing social media platforms and upload it for analysis later",
   "manifest_version": 2,
   "name": "Zeeschuimer",
-  "version": "1.13.1",
+  "version": "3.13.1",
   "homepage_url": "https://github.com/digitalmethodsinitiative/zeeschuimer",
 
   "browser_specific_settings": {
@@ -42,6 +42,7 @@
       "modules/9gag.js",
       "modules/imgur.js",
       "modules/twitter.js",
+      "modules/twitter-users.js",
       "modules/douyin.js",
       "modules/gab.js",
       "modules/truth.js",
